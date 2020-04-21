@@ -3,7 +3,7 @@ Eradication of COVID-19 through a geo-cell clearance approach.
 
 ## Overview
 
-CellClear proposes to use data and communal will to eradicate COVID-19. Each cell is a geographic area encompassing a number of households. Within each cell, data regarding viral symptoms and contact events are supplied by residents. As cells are declared clear (i.e. free of COVID-19) they are then able to commune with other nearby cleared cells, such that entire regions are then able to resume normal daily life and economic activity. This will be acheived faster than would otherwise be the case under national level lockdowns. It is possible to implement this solution without government involvement or assistance. Nor is there a requirement for any equipment beyond the existing extent of mobile phone ownership.
+CellClear proposes to use data and communal will to eradicate COVID-19. Each cell is a geographic area encompassing a number of households. Within each cell, data regarding viral symptoms and contact events are supplied by residents. As cells are declared clear (i.e. free of COVID-19) they are then able to commune with other nearby cleared cells, such that entire regions are then able to resume normal daily life and economic activity. This will be acheived faster than would otherwise be the case under national level lockdowns. It is possible to implement this solution without government involvement or assistance. There is no requirement for equipment beyond the existing extent of mobile phone ownership.
 
 ## Background
 
