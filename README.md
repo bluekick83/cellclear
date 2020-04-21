@@ -1,5 +1,5 @@
 # CellClear
-Eradication of COVID-19 through the cellular clearance approach
+Eradication of COVID-19 through a geo-cell clearance approach.
 
 ## Overview
 
